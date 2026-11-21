@@ -1,0 +1,12 @@
+{
+  "title": "Ефективність кримінально-правової охорони інтелектуальної власності в Україні (1991–2026): електронні додатки до монографії",
+  "upload_type": "dataset",
+  "description": "<p>Електронні додатки до монографії В. А. Штанька «Ефективність кримінально-правової охорони інтелектуальної власності в Україні (1991–2026)»: реєстр дисертацій з проблем охорони ІВ (1996–2026, 162 записи); розділи Г–Д реєстру прогалин і вад (Б.139–Б.208); масив 944 кримінальних справ про злочини у сфері ІВ, закодованих за вироками з ЄДРСР; перелік 15 973 рішень цивільних і господарських судів (12 750 стосуються ІВ); методика збору й кодування. Мова — українська.</p><p>Electronic appendices to the monograph <em>Effectiveness of Criminal-Law Protection of Intellectual Property in Ukraine (1991–2026)</em>: register of 162 Ukrainian doctoral theses on IP protection; register of gaps and defects (items B.139–B.208); dataset of 944 coded criminal IP cases from the Unified State Register of Court Decisions; list of 15,973 civil and commercial court decisions; data collection methodology. Language: Ukrainian.</p>",
+  "creators": [
+    {"name": "Штанько, Вячеслав Анатолійович", "orcid": "0009-0007-4253-443X", "affiliation": "Igor Sikorsky Kyiv Polytechnic Institute"}
+  ],
+  "license": "cc-by-4.0",
+  "language": "ukr",
+  "keywords": ["інтелектуальна власність", "кримінально-правова охорона", "ЄДРСР", "судові рішення", "intellectual property crime", "Ukraine", "court decisions", "latency"],
+  "access_right": "open"
+}

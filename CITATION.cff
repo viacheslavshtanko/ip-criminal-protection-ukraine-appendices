@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Якщо ви використовуєте ці дані, будь ласка, цитуйте їх так."
+type: dataset
+title: "Ефективність кримінально-правової охорони інтелектуальної власності в Україні (1991–2026): електронні додатки до монографії"
+authors:
+  - family-names: "Штанько"
+    given-names: "Вячеслав Анатолійович"
+    orcid: "https://orcid.org/0009-0007-4253-443X"
+    affiliation: "КПІ ім. Ігоря Сікорського"
+license: CC-BY-4.0
+repository-code: "https://github.com/viacheslavshtanko/ip-criminal-protection-ukraine-appendices"
+keywords:
+  - "інтелектуальна власність"
+  - "кримінально-правова охорона"
+  - "ЄДРСР"
+  - "intellectual property crime"
+  - "Ukraine"
+  - "court decisions dataset"
